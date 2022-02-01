@@ -1,1 +1,49 @@
+body {
+background-image: url("https://images.squarespace-cdn.com/content/v1/542765cbe4b05b9e44ac462a/1501293325524-4VH58Q6PJG2SV4OP422P/Washi-Arts-Linen-Cardstock-Ivory.jpg.jpeg?format=1000w");
+  color: #575757;
+  font-family: Ariel, sans-serif;
+  margin: 10%;
+  font-weight: 200;
+  border-bottom: 2.5px solid #575757;
+
+}
+
+.full-name { 
+  font-size: 32px; 
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  border-bottom: 2.5px solid #575757;
+
+}
+
+
+.tagline {
+  font-size: 15px;
+  margin-left: 40px;
+  margin-bottom: 60px;
+
+}
+
+.sub-header {
+  text-transform: uppercase;
+  font-size: 12px;
+  padding-bottom: 10px;
+
+}
+
+
+.jobs {
+  font-size: 15px;
+}
+
+.dates {
+  font-size: 15px;
+
+}
+
+.content {
+    font-size: 15px;
+      padding-bottom: 10px;
+
+}
 
