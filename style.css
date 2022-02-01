@@ -1,1 +1,63 @@
+body {
+  background-color: #a9aa8a;
+  color: #575757;
+  font-family: Ariel, sans-serif;
+  margin: 10%;
+  font-weight: 200;
+}
+
+.full-name { 
+  font-size: 32px; 
+  margin-bottom: 10px;
+}
+
+
+.tagline {
+  font-size: 15px;
+  margin-left: 40px;
+  margin-bottom: 60px;
+
+}
+
+.sub-header {
+    border-bottom: 2.5px solid #575757;
+
+
+}
+
+
+.jobs {
+
+}
+
+.dates {
+
+}
+
+.content {
+  border-bottom: 2.5px solid #575757;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
