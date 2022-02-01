@@ -5,45 +5,47 @@ background-image: url("https://images.squarespace-cdn.com/content/v1/542765cbe4b
   margin: 10%;
   font-weight: 200;
   border-bottom: 2.5px solid #575757;
-
+  padding-bottom: 15px;
 }
 
 .full-name { 
   font-size: 32px; 
-  margin-bottom: 0px;
-  padding-bottom: 0px;
   border-bottom: 2.5px solid #575757;
-
 }
-
 
 .tagline {
   font-size: 15px;
   padding-left: 40px;
   padding-bottom: 60px;
-
 }
 
 .sub-header {
   text-transform: uppercase;
   font-size: 12px;
-  padding-bottom: 10px;
-
+  padding-bottom: px;
+  border-bottom: 2.5px solid #575757;
 }
-
 
 .jobs {
   font-size: 15px;
+  padding-top: 15px;
 }
 
 .dates {
   font-size: 15px;
-
 }
 
 .content {
     font-size: 15px;
-      padding-bottom: 10px;
-
+    padding-bottom: 10px;
 }
+
+
+
+
+
+
+
+
+
 
