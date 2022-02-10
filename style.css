@@ -21,7 +21,8 @@ img {
   color: #444444;
   font-weight: 200;
   line-height: 1;
-  padding-top: 100px; 
+  padding-top: 10%; 
+
 }
 
 .tagline {
@@ -30,7 +31,7 @@ img {
 }
 
 .secret {
-  font-size: 16px;
+  font-size: 14px;
   margin-bottom: 250px;
   line-height: .5;
 }
@@ -40,7 +41,7 @@ img {
   color: #444444;
   font-size: 16px;
   border-bottom: 1.5px solid #d3d3d3;
-  padding-top: 10%; 
+  padding-top: 15%; 
 }
 
 .aboutmecontent {
