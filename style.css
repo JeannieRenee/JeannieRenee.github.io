@@ -11,8 +11,17 @@ body {
   padding-top: 150px; 
 }
 
+img {
+  float: right;
+}
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
 .name { 
-  font-size: 60px; 
+  font-size: 70px; 
   color: #444444;
   font-weight: 200;
   line-height: 1;
@@ -37,11 +46,23 @@ body {
 
 
 .aboutme {
-  font-size: 15px;
+  font-size: 16px;
   margin-bottom: 150px;
+  padding-bottom: 150px; 
+
+
+
+
 }
 
-
+.subhead1 {
+  text-transform: uppercase;
+  padding-top: 100px;
+  color: #444444;
+  font-size: 16px;
+  border-bottom: 1.5px solid #575757;
+  
+}
 
 
 
