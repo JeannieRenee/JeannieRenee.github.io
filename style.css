@@ -1,3 +1,44 @@
+body {
+  background-image: url("URL");
+  color: #575757;
+  font-family: Roboto; sans-serif;
+  margin: 10%;
+  padding-bottom: 15px;
+}
+
+.name { 
+  font-size: 20px; 
+  color: #444444;
+  border-bottom: 1.5px solid #575757;
+}
+
+.tagline {
+  font-size: 14px;
+  padding-bottom: 30px;
+}
+
+.subhead {
+  text-transform: uppercase;
+  color: #444444;
+  font-size: 14px;
+border-bottom: 1.5px solid #575757;
+}
+
+.job {
+  font-size: 14px;
+  color: #444444;
+}
+
+.date {
+  font-size: 14px;
+  padding-left: 15px;
+}
+
+.content {
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -16,42 +57,5 @@
   width: 75%;
 }
 
-body {
-  color: #575757;
-  font-family: Ariel, sans-serif;
-  margin: 10%;
-  padding-bottom: 15px;
-}
 
-.name { 
-  font-size: 20px; 
-  color: #444444;
-  border-bottom: 1.5px solid #575757;
-}
 
-.tagline {
-  font-size: 14px;
-  padding-bottom: 40px;
-}
-
-.subhead {
-  text-transform: uppercase;
-  color: #444444;
-  font-size: 12px;
-border-bottom: 1.5px solid #575757;
-}
-
-.job {
-  font-size: 14px;
-  color: #444444;
-}
-
-.date {
-  font-size: 14px;
-  padding-left: 15px;
-}
-
-.content {
-    font-size: 15px;
-    padding-bottom: 10px;
-}
