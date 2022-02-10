@@ -4,46 +4,43 @@ body {
   font-family: Roboto; sans-serif;
   line-height: 2;
   margin: 10%;
-
-
 }
 
 .header {
-  background-color: #f7ba62;
-  border-bottom: 2px solid ;
-  border-top: 2px solid #575757;
-  margin-right: 25px;
-  margin-bottom: 100px;
-  padding-left: 25px; 
-  padding-top: 100px; 
-  font-weight: 300;
-
-
-
-
+  margin-bottom: 150px;
+  padding-top: 150px; 
 }
 
 .name { 
-  font-size: 25px; 
+  font-size: 60px; 
   color: #444444;
-
-
+  font-weight: 200;
+  line-height: 1;
 
 
 }
 
+
+
 .tagline {
-  font-size: 16px;
+  font-size: 20px;
   padding-bottom: 30px;
   line-height: .5;
-
-
 }
 
 .secret {
-  font-size: 11px;
-  padding-left: 100px;
+  font-size: 15px;
+
 }
+
+
+
+
+.aboutme {
+  font-size: 15px;
+  margin-bottom: 150px;
+}
+
 
 
 
