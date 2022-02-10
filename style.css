@@ -1,16 +1,32 @@
 body {
-  background-image: url("URL");
+  background-color: #f1f5f5;
   color: #575757;
   font-family: Roboto; sans-serif;
+  line-height: 2;
   margin: 10%;
-  line-height: 1.75;
+
+
+}
+
+.header {
+  background-color: #f7ba62;
+  border-bottom: 2px solid ;
+  border-top: 2px solid #575757;
+  margin-right: 25px;
+  margin-bottom: 100px;
+  padding-left: 25px; 
+  padding-top: 100px; 
+  font-weight: 300;
+
+
+
+
 }
 
 .name { 
-  font-size: 20px; 
+  font-size: 25px; 
   color: #444444;
-  border-bottom: 1.5px solid #575757;
-  margin-right: 25px;
+
 
 
 
@@ -19,14 +35,39 @@ body {
 .tagline {
   font-size: 16px;
   padding-bottom: 30px;
+  line-height: .5;
+
+
 }
+
+.secret {
+  font-size: 11px;
+  padding-left: 100px;
+}
+
+
+
+
 
 .subhead {
   text-transform: uppercase;
   color: #444444;
   font-size: 16px;
   border-bottom: 1.5px solid #575757;
+  
 }
+
+
+.fa-solid {
+    color: #da735b;
+}
+
+
+
+
+
+
+
 
 .job {
   font-size: 16px;
@@ -64,11 +105,11 @@ body {
 }
 
 .left {
-  width: 25%;
+  width: 30%;
 }
 
 .right {
-  width: 75%;
+  width: 70%;
 }
 
 
