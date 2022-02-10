@@ -1,21 +1,13 @@
 body {
-  background-color: #f1f5f5;
+  background-color: #FFFFFF;
   color: #575757;
   font-family: Roboto; sans-serif;
   line-height: 2;
   margin: 10%;
 }
 
-.header {
-  margin-bottom: 150px;
-  padding-top: 150px; 
-}
-
 img {
   float: right;
-  border: 1.5px solid #da735b;
-
-
 }
 
 .responsive {
@@ -28,37 +20,40 @@ img {
   color: #444444;
   font-weight: 200;
   line-height: 1;
+  padding-top: 100px; 
 }
 
 .tagline {
   font-size: 20px;
-  padding-bottom: 30px;
   line-height: .5;
 }
 
 .secret {
-  font-size: 15px;
-}
-
-.aboutme {
   font-size: 16px;
-  margin-bottom: 150px;
-  padding-bottom: 100px; 
+  margin-bottom: 250px;
+  line-height: .5;
 }
 
-.subhead1 {
+.aboutmesubhead {
   text-transform: uppercase;
-  padding-top: 100px;
   color: #444444;
   font-size: 16px;
-  border-bottom: 1.5px solid #575757;
+  border-bottom: 1.5px solid #d3d3d3;
+  padding-top: 100px; 
+}
+
+.aboutmecontent {
+  font-size: 16px;
+  padding-bottom: 150px; 
+  margin-left: 150px;
+  margin-right: 150px;
 }
 
 .subhead {
   text-transform: uppercase;
   color: #444444;
   font-size: 16px;
-  border-bottom: 1.5px solid #575757;
+  border-bottom: 1.5px solid #d3d3d3;
 }
 
 
@@ -87,6 +82,11 @@ img {
     padding-bottom: 10px;
 }
 
+
+
+{Flexbox Shit}
+
+
 * {
   box-sizing: border-box;
 }
@@ -104,6 +104,3 @@ img {
 .right {
   width: 70%;
 }
-
-
-
