@@ -22,7 +22,6 @@ img {
   font-weight: 200;
   line-height: 1;
   padding-top: 10%; 
-
 }
 
 .tagline {
@@ -36,16 +35,16 @@ img {
   line-height: .5;
 }
 
-.aboutmesubhead {
+.aboutmehead {
   text-transform: uppercase;
-  color: #444444;
-  font-size: 16px;
+}
+
+.aboutmecontact {
   border-bottom: 1.5px solid #d3d3d3;
-  padding-top: 20%; 
 }
 
 .aboutmecontent {
-  font-size: 16px;
+  font-size: 20px;
   padding-bottom: 150px; 
   margin-left: 10%;
   margin-right: 10%;
@@ -63,6 +62,10 @@ img {
     color: #da735b;
 }
 
+.fa-brands {
+    color: #da735b;
+}
+
 .job {
   font-size: 16px;
   color: #444444;
@@ -73,13 +76,13 @@ img {
   padding-left: 15px;
 }
 
-.content {
+.skills {
     font-size: 16px;
     padding-bottom: 10px;
     padding-top: 10px;
 }
 
-.content2 {
+.jobdesc {
     font-size: 16px;
     padding-bottom: 10px;
 }
@@ -94,15 +97,15 @@ img {
 }
 
 .column {
-  float: left;
+  float: right;
   height: 300px;
 }
 
-.left {
-  width: 30%;
-  padding-right: 25px;
+.right {
+  width: 25%;
 }
 
-.right {
-  width: 70%;
+.left {
+  width: 75%;
+    padding-right: 25px;
 }
