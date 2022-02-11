@@ -3,7 +3,9 @@ body {
   color: #575757;
   font-family: Roboto; sans-serif;
   line-height: 2;
-  margin: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 10%;
 }
 
 img {
@@ -16,8 +18,9 @@ img {
   height: auto;
 }
 
+
 .name { 
-  font-size: 70px; 
+  font-size: 50px; 
   color: #444444;
   font-weight: 200;
   line-height: 1;
@@ -26,30 +29,29 @@ img {
 
 .tagline {
   font-size: 20px;
-  line-height: .5;
+  line-height: 1.5;
 }
 
 .secret {
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 20%;
   line-height: .5;
 }
 
 .aboutmehead {
   text-transform: uppercase;
-  padding-top: 200px; 
-}
-
-.aboutmecontact {
-  font-size: 40px;
   border-bottom: 1.5px solid #d3d3d3;
 }
 
 .aboutmecontent {
   font-size: 16px;
-  padding-bottom: 150px; 
   margin-left: 10%;
   margin-right: 10%;
+}
+
+.aboutmecontact {
+  font-size: 40px;
+  padding-bottom: 5%; 
 }
 
 .subhead {
@@ -57,6 +59,7 @@ img {
   color: #444444;
   font-size: 16px;
   border-bottom: 1.5px solid #d3d3d3;
+  line-height: .5;
 }
 
 
@@ -71,11 +74,13 @@ img {
 .job {
   font-size: 16px;
   color: #444444;
+  line-height: .5;
 }
 
 .date {
   font-size: 16px;
   padding-left: 15px;
+  line-height: .5;
 }
 
 .skills {
