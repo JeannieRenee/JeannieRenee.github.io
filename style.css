@@ -21,7 +21,7 @@ img {
   color: #444444;
   font-weight: 200;
   line-height: 1;
-  padding-top: 10%; 
+  padding-top: 5%; 
 }
 
 .tagline {
@@ -37,14 +37,16 @@ img {
 
 .aboutmehead {
   text-transform: uppercase;
+  padding-top: 200px; 
 }
 
 .aboutmecontact {
+  font-size: 40px;
   border-bottom: 1.5px solid #d3d3d3;
 }
 
 .aboutmecontent {
-  font-size: 20px;
+  font-size: 16px;
   padding-bottom: 150px; 
   margin-left: 10%;
   margin-right: 10%;
@@ -97,15 +99,15 @@ img {
 }
 
 .column {
-  float: right;
+  float: left;
   height: 300px;
 }
 
 .right {
-  width: 25%;
+  width: 30%;
 }
 
 .left {
-  width: 75%;
+  width: 70%;
     padding-right: 25px;
 }
