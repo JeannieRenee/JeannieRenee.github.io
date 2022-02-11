@@ -18,6 +18,13 @@ img {
   height: auto;
 }
 
+.fa-solid {
+    color: #da735b;
+}
+
+.fa-brands {
+    color: #da735b;
+}
 
 .name { 
   font-size: 50px; 
@@ -62,15 +69,6 @@ img {
   line-height: .5;
 }
 
-
-.fa-solid {
-    color: #da735b;
-}
-
-.fa-brands {
-    color: #da735b;
-}
-
 .job {
   font-size: 16px;
   color: #444444;
@@ -93,11 +91,6 @@ img {
     font-size: 16px;
     padding-bottom: 10px;
 }
-
-
-
-{Flexbox Shit}
-
 
 * {
   box-sizing: border-box;
